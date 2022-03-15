@@ -3,5 +3,5 @@
 1. First Java Program
    - First IntelliJ Idea Project
    - First tutorial
-   - Assignments
+   - Assignment
   
