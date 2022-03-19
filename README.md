@@ -9,4 +9,4 @@ This repository consist of code samples and assignments of Java + DSA + Intervie
 2. [Conditionals and Loops](02-conditions-loops)   
    - Assignment
    - [Conditionals and Loops](02-conditions-loops/code)
-   - Switch Statement + Nested Case
+   - [Switch Statement + Nested Case](02-conditions-loops/switch)
