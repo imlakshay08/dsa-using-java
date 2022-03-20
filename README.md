@@ -7,6 +7,6 @@ This repository consist of code samples and assignments of Java + DSA + Intervie
    - [First IntelliJ Idea Project](01-first-java-program/first-idea-project)
    - [First Tutorial](01-first-java-program/first-tutorial)
 2. [Conditionals and Loops](02-conditions-loops)   
-   - Assignment
+   - [Assignment](02-conditions-loops/Assignment)
    - [Conditionals and Loops](02-conditions-loops/code)
    - [Switch Statement + Nested Case](02-conditions-loops/switch)
