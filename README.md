@@ -25,9 +25,9 @@ This repository consist of code samples and assignments of Java + DSA + Intervie
 7. Sorting
    -  Assignment
    -  Sorting
-8. Strings
-   -  Assignment
-   -  Strings
+8. [Strings](08-strings)
+   -  [Assignment](08-strings/Assignment)
+   -  [Strings](08-strings/code)
 9. Patterns
    -  Assignment
    -  Patterns
