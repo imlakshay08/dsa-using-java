@@ -1,6 +1,6 @@
 # Data Structures & Algorithms using Java
 
-This repository consist of code samples and assignments of Java + DSA + Interview Preparation Course on YouTube by Kunal Kushwaha & CommunityClassrooms. All credits to [DSA-Bootcamp-Java](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java)
+This repository consist of code samples and assignments of Java + DSA + Interview Preparation Course on YouTube by Kunal Kushwaha & CommunityClassrooms. All credits to [DSA-Bootcamp-Java](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java).
 
 1. [First Java Program](01-first-java-program)
    - [Assignment](01-first-java-program/assignment)
