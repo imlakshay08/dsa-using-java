@@ -19,4 +19,16 @@ This repository consist of code samples and assignments of Java + DSA + Intervie
 5. [Linear Search](05-linear-search)
    -  [Assignment](05-linear-search/Assignment)
    -  [Linear Search](05-linear-search/code)
+6. Binary Search
+   -  Assignment
+   -  Binary Search
+7. Sorting
+   -  Assignment
+   -  Sorting
+8. Strings
+   -  Assignment
+   -  Strings
+9. Patterns
+   -  Assignment
+   -  Patterns
 
