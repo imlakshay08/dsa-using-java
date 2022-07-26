@@ -39,5 +39,5 @@ This repository consist of code samples and assignments of Java + DSA + Intervie
 9. [Patterns](09-strings)
    -  Assignment
       - Assignment Solutions
-   -  Patterns(09-strings/code)
+   -  [Patterns](09-strings/code)
 
