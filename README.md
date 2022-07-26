@@ -4,6 +4,7 @@ This repository consist of code samples and assignments of Java + DSA + Intervie
 
 1. [First Java Program](01-first-java-program)
    - [Assignment](01-first-java-program/assignment)
+      - Assignment Solutions
    - [First IntelliJ Idea Project](01-first-java-program/first-idea-project)
    - [First Tutorial](01-first-java-program/first-tutorial)
 2. [Conditionals and Loops](02-conditions-loops)   
@@ -35,8 +36,8 @@ This repository consist of code samples and assignments of Java + DSA + Intervie
    -  [Assignment](08-strings/Assignment)
       - Assignment Solutions
    -  [Strings](08-strings/code)
-9. Patterns
+9. [Patterns](09-strings)
    -  Assignment
       - Assignment Solutions
-   -  Patterns
+   -  Patterns(09-strings/code)
 
