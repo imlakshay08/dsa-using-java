@@ -27,7 +27,7 @@ This repository consist of code samples and assignments of Java + DSA + Intervie
 6. [Binary Search](06-binary-search)
    -  Assignment
       - Assignment Solutions
-   -  Binary Search(06-binary-search/code)
+   -  [Binary Search](06-binary-search/code)
 7. Sorting
    -  Assignment
       - Assignment Solutions
