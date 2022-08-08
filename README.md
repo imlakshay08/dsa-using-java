@@ -28,10 +28,10 @@ This repository consist of code samples and assignments of Java + DSA + Intervie
    -  Assignment
       - Assignment Solutions
    -  [Binary Search](06-binary-search/code)
-7. Sorting
+7. [Sorting](07-sorting)
    -  Assignment
       - Assignment Solutions
-   -  Sorting
+   -  [Sorting](07-sorting/code)
 8. [Strings](08-strings)
    -  [Assignment](08-strings/Assignment)
       - Assignment Solutions
