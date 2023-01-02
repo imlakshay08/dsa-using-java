@@ -18,7 +18,7 @@ This repository consist of code samples and assignments of Java + DSA + Intervie
    -  [Methods](03-methods/code)
 4. [Arrays](04-arrays)
    -  [Assignment](04-arrays/Assignment)
-      - Assignment Solutions
+      - [Assignment Solutions](04-arrays/Assignment/Solutions)
    -  [Arrays](04-arrays/code)
 5. [Linear Search](05-linear-search)
    -  [Assignment](05-linear-search/Assignment)
